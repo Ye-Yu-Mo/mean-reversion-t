@@ -235,7 +235,7 @@ This Pine Script code is subject to the terms of the **Mozilla Public License 2.
 
 ## Author
 
-**Jasxu** - [TradingView](https://www.tradingview.com/u/j82115817/) · [GitHub](https://github.com/Ye-Yu-Mo)
+**Jasxu** - [TradingView](https://www.tradingview.com/u/Jasxu/) · [GitHub](https://github.com/Ye-Yu-Mo)
 
 ## Disclaimer
 

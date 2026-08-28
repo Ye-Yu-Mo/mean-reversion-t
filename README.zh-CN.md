@@ -235,7 +235,7 @@ T减后的保本位放在 `entry ± 往返成本`,因此"T保本"是真正扣掉
 
 ## 作者
 
-**Jasxu** - [TradingView](https://www.tradingview.com/u/j82115817/) · [GitHub](https://github.com/Ye-Yu-Mo)
+**Jasxu** - [TradingView](https://www.tradingview.com/u/Jasxu/) · [GitHub](https://github.com/Ye-Yu-Mo)
 
 ## 免责声明
 

@@ -1,6 +1,6 @@
 //@version=6
 // This Pine Script® code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
-// © Jasxu · TradingView: https://www.tradingview.com/u/j82115817/
+// © Jasxu · TradingView: https://www.tradingview.com/u/Jasxu/
 // GitHub: https://github.com/Ye-Yu-Mo
 indicator("Mean Reversion T", overlay = true, max_labels_count = 500)
 
